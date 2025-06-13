@@ -1,6 +1,6 @@
 {
     "keys": {
-        "crackculon": {"type": "permanent"},
+        "crackdb": {"type": "permanent"},
         "1t": {"type": "trial", "expiry": "2025-01-24T23:59:59", "used": false},
         "dobiet": {"type": "trial", "expiry": "2025-03-07T23:59:59", "used": false},
         "datthanhkw": {"type": "trial", "expiry": "2025-04-20T23:59:59", "used": false},
